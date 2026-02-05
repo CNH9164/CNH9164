@@ -1,4 +1,4 @@
-Hey there! 👋
+###Hey there! 👋
 
 I'm Vishnuvardhan, a software engineer based in India
 
@@ -14,5 +14,5 @@ I’m currently strengthening my CS foundations and working on projects that imp
 ### Fun Facts
 - Always curious, always learning  
 - Highly persistent once I set a goal  
-- Hobbies: gym, sports, building things
+- ###Hobbies: gym, sports, building things
  
