@@ -1,16 +1,17 @@
-## Hi there 👋
+Hey there! 👋
 
-<!--
-**CNH9164/CNH9164** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Vishnuvardhan, a software engineer based in India
 
-Here are some ideas to get you started:
+I enjoy taking ideas from concept to code and optimizing them into solid solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+If a problem looks interesting, chances are I’ll try to break it down and solve it.
+
+My main focus areas are DSA, backend development, and AI fundamentals.
+My favorite tools are C++, Python, Git, GitHub, VS Code.
+
+I’m currently strengthening my CS foundations and working on projects that improve my real-world engineering skills.
+
+Fun Facts:
+• Highly persistent once I set a goal
+• Always curious, always learning
+• Hobbies: gym,sports,building things 
