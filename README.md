@@ -7,7 +7,7 @@ I enjoy taking ideas from concept to code and optimizing them into solid solutio
 If a problem looks interesting, chances are I’ll try to break it down and solve it.
 
 My main focus areas are DSA, backend development, and AI fundamentals.
-My favorite tools are C++, Python, Git, GitHub, VS Code.
+My favorite tools are C++, Git, GitHub, VS Code.
 
 I’m currently strengthening my CS foundations and working on projects that improve my real-world engineering skills.
 
