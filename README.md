@@ -12,6 +12,6 @@ My favorite tools are C++, Python, Git, GitHub, VS Code.
 I’m currently strengthening my CS foundations and working on projects that improve my real-world engineering skills.
 
 Fun Facts:
-• Highly persistent once I set a goal
-• Always curious, always learning
-• Hobbies: gym,sports,building things 
+> Always curious, always learning
+> Highly persistent once I set a goal
+> Hobbies: gym,sports,building things 
